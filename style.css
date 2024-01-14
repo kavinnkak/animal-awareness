@@ -1,0 +1,64 @@
+body
+{
+    background-color: rgb(210, 184, 202);
+    font-family: 'Cedarville Cursive', cursive;
+}
+h2{
+    color: rgb(218, 22, 55);
+    font-weight: bolder;
+    font-style: normal;
+    background-color: lightgray;
+    font-size: 40px;
+    height: 50px;
+    position: top;
+    
+
+}
+#h
+{
+    color: rgb(142, 84, 84);
+    font-size: 20px;
+ 
+}
+
+#y
+{
+    background-color: aliceblue;
+    width: 50%;
+    text-shadow: 5px 5px 5px rgb(84, 78, 78);
+   
+}
+
+
+#cat
+{
+    height: 230px;
+    width: 230px;
+
+}
+
+#cow
+{
+    height: 230px;
+    width: 230px;
+
+}
+#dino
+{
+    height: 230px;
+    width: 230px;
+
+}
+#dog
+{
+    height: 230px;
+    width: 230px;
+
+}
+
+#escaped
+{
+    height: 230px;
+    width: 230px;
+
+}
